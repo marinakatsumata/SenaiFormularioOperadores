@@ -22,7 +22,7 @@ input, button {
 
 button {
   background-color: #ffae00;
-  color: white;
+  color: rgb(166, 198, 245);
   border: none;
   cursor: pointer;
   border-radius: 5px;
